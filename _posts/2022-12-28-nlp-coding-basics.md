@@ -7,7 +7,6 @@ tags: [machine-learning, nlp]
 image:
   path: thumbnail.jpeg
   alt: Machine Learning Theory
-math: true
 ---
 ## (Migrated from old blog)
 
