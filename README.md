@@ -35,6 +35,11 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+[New post option](https://chirpy.cotes.page/posts/write-a-new-post/)
+
+[Plugin to create new post](https://github.com/jekyll/jekyll-compose)
+
+
 ## License
 
 This work is published under [MIT][mit] License.
