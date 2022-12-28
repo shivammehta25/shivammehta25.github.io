@@ -15,3 +15,5 @@ image:
 {: .prompt-info }
 
 I will be posting about fun projects, math, my work, and my thoughts here. I hope you enjoy reading my posts as much as I enjoy writing them.
+
+Allright, I will see you around!
