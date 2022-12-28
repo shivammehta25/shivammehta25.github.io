@@ -21,7 +21,7 @@ timezone: Europe/Stockholm
 
 title: Shivam Mehta                          # the main title
 
-tagline: Blog   # it will display as the sub-title
+tagline: Documenting my AI journey!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Machine Learning, Deep Learning, AI and Speech Researcher
@@ -42,8 +42,8 @@ social:
   email: shivam.mehta25(at)gmail(dot)com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://www.linkedin.com/in/shivammehta25/      # change to your twitter homepage
+    - https://github.com/shivammehta25       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/9089131
 
 # boolean type, the global switch for ToC in posts.
 toc: true
