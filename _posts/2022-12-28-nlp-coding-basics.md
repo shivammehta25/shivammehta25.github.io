@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP coding basics
+title: NLP coding basics (before LLMs)
 date: 2019-04-10 23:40 +0100
 categories: [nlp]
 tags: [machine-learning, nlp]
