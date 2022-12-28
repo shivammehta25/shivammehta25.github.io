@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complex Numbers With Python Object Oriented Approach
+title: Complex numbers in python an OOP way
 date: 2019-03-26 13:54 +0100
 categories: [programming]
 tags: [python, object-orignted-programming, complex-number]
