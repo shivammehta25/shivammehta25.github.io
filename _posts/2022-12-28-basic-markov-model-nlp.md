@@ -28,11 +28,11 @@ Markov Model
 Lets talk about food. Ofcourse we all love it :P 😍😛
 So If I eat pasta today the probability of me eating pasta tomorrow is 0.50 and the probability of me eating burrito tomorrow is 0.30 and the probability of me eating Dahl (I have no idea what it is, it shoudl be 0.0 but for the sake of mathematics lets assume) it is 0.20. So we can create a transition state matrix of
 
-$$ P = \Bigg[ \begin{array}{c c c} 0.50 & 0.30 & 0.20 \\ 0.25 & 0.50 & 0.25 \\ 0.40 & 0.40 & 0.20 \end{array} \Bigg] $$
+$$ P = \left[ \begin{array}{c c c} 0.50 & 0.30 & 0.20 \\ 0.25 & 0.50 & 0.25 \\ 0.40 & 0.40 & 0.20 \end{array} \right] $$
 
 So let the starting state $S_0$ be equal to $ S_0 = [ 0.4 \\ 0.5 \\ 0.1] $ so we can determine the probability of going to next state by simply $ \langle S_0, P \rangle$
 
-$$ S_1 = [0.4  0.5  0.1 ] \cdot \Bigg[ \begin{array}{c c c} 0.50 & 0.30 & 0.20 \\ 0.25 & 0.50 & 0.25 \\ 0.40 & 0.40 & 0.20 \end{array} \Bigg] = [0.365 \  0.41 \  0.225 ] $$
+$$ S_1 = [0.4  0.5  0.1 ] \cdot \left[ \begin{array}{c c c} 0.50 & 0.30 & 0.20 \\ 0.25 & 0.50 & 0.25 \\ 0.40 & 0.40 & 0.20 \end{array} \right] = [0.365 \  0.41 \  0.225 ] $$
 
 Okay, too much of Mathematics lets switch to code ( now we are talking) . So we have a text dataset of lots of corpus given by my teacher. Click to download, we need it for furthur coding.
 
