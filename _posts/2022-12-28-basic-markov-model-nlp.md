@@ -2,7 +2,7 @@
 layout: post
 title: A basic Markov model for NLP
 date: 2019-03-27 19:44 +0100
-categories: [machine-learning]
+categories: [machine-learning, nlp]
 tags: [linear-algebra , machine-learning, markov-model, math, nlp]
 image:
   path: thumbnail.png
