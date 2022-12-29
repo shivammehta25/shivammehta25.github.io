@@ -6,7 +6,7 @@ categories: [nlp]
 tags: [machine-learning, nlp, deep-learning, neural-networks]
 image:
   path: thumbnail.jpeg
-  alt: Machine Learning Theory
+  alt: Keras LSTM-donald trump
 ---
 ## (Migrated from old blog)
 
