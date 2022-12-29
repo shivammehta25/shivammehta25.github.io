@@ -6,7 +6,7 @@ categories: [nlp]
 tags: [machine-learning, nlp]
 image:
   path: thumbnail.jpeg
-  alt: Machine Learning Theory
+  alt: Natural Language Processing coding basics (before LLMs)
 ---
 ## (Migrated from old blog)
 

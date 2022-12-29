@@ -76,4 +76,4 @@ Here is a summary of gradient descent by Andrew NG and I think its the best to s
 
 Summary of Gradient Descent
 
-A programmatical Implementation of this can be found in my repository : [https://github.com/shivammehta007/NLPResearch/blob/master/Tutorials/NeuralNet/Neural%20Network%20From%20Scratch.ipynb](https://github.com/shivammehta007/NLPResearch/blob/master/Tutorials/NeuralNet/Neural%20Network%20From%20Scratch.ipynb).
+A programmatical Implementation of this can be found in my repository : [https://github.com/shivammehta25/NLPResearch/blob/master/Tutorials/NeuralNet/Neural%20Network%20From%20Scratch.ipynb](https://github.com/shivammehta25/NLPResearch/blob/master/Tutorials/NeuralNet/Neural%20Network%20From%20Scratch.ipynb).

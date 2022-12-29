@@ -3,7 +3,7 @@ layout: post
 title: A beginners guide to SVM
 date: 2019-05-19 15:10 +0100
 categories: [math, machine-learning]
-tags: [machine-learning, math, neural-networks, linear-algebra, optimization]
+tags: [machine-learning, math, neural-networks, linear-algebra, optimization, svm]
 image:
   path: thumbnail.jpeg
   alt: A beginners guide to regularization
