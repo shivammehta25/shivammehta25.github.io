@@ -9,6 +9,7 @@ image:
   alt: Optimization Algorithms – Gradient Descent Extensions
 math: true
 ---
+## (Migrated from old blog)
 
 We mentioned backpropagation in logistic regression and neural network, In that we used Gradient Descent and a fixed learning rate $\alpha $, for the method to go look for its steepest slope and start reducing towards the slope. But in that we have problems of overshooting and a fixed learning rate often have problem towards converging ( a terminology used to reach the minima).
 
