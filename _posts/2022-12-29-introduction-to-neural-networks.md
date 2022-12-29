@@ -9,6 +9,7 @@ image:
   alt: Introduction to neural networks
 math: true
 ---
+## (Migrated from old blog)
 
 For those who read my logistic regression article, a neural network is somewhat kind of a similar thing with multiple layer architecture, even if you did not read not a big deal I will start from scratch. So consider this image, this is the best representation I found on the internet.
 
