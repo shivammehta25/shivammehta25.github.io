@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A beginners guide to SVM
-date: 2022-12-29 15:10 +0100
+date: 2019-05-19 15:10 +0100
 categories: [math, machine-learning]
-tags: [machine-learning, math, deep-learning, neural-networks, linear-algebra, optimization]
+tags: [machine-learning, math, neural-networks, linear-algebra, optimization]
 image:
   path: thumbnail.jpeg
   alt: A beginners guide to regularization
@@ -94,9 +94,9 @@ So now the SVM chooses green line and Vector $\theta $ is the vector and again A
 
 Therefore the SVM will chose the second hypothesis than the first one and this is how SVM gives the large margin classifier.
 
-<!-- Read about Kernels here : Before continuing
+Read about Kernels here : Before continuing
 
-[Kernels](http://shivammehta.me/blog/2019/05/20/kernel/) -->
+[Kernels]({% post_url 2022-12-29-kernels-101 %})
 
 So, now the hypothesis becomes , Given: $x $ compute features, $f \in \mathbb{R}^{m+1} $
 Predict $y=1 $ if $\theta^Tf \geq 0 $
