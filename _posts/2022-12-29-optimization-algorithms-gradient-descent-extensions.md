@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimization Algorithms – Gradient Descent Extensions
-date: 2022-12-29 15:51 +0100
+date: 2019-06-20 15:51 +0100
 categories: [machine-learning, math]
 tags: [machine-learning, theory, math, calculus, derivatives, optimization, gradient-descent, optimization-algorithms]
 image:
