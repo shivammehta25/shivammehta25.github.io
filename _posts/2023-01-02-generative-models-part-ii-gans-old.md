@@ -3,7 +3,7 @@ layout: post
 title: Generative Models - Part II GANs (old)
 date: 2019-10-21 15:00 +0100
 categories: [deep-learning]
-tags: [machine-learning, nlp, deep-learning, neural-networks, generative-models, probabilistic-machine-learning, python, programming, VAE, GAN]
+tags: [machine-learning, deep-learning, neural-networks, generative-models, probabilistic-machine-learning, python, GAN]
 image:
   path: thumbnail.jpeg
   alt: Generative models part I Variational autoencoders
