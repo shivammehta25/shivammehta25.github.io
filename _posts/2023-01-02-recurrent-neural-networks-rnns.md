@@ -10,6 +10,8 @@ image:
 math: true
 ---
 
+## (Migrated from old blog)
+
 One of the abundantly used Neural Networks for Sequential Data or Time Series Data. What do we mean when we say sequential data lets state a few examples of sequential data.
 
 - Speech Recognition
