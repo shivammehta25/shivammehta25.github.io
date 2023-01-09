@@ -11,7 +11,7 @@ image:
 
 ## Hello and welcome to the blog (again)!
 
-> Again because I used to post on `shivammehta.me/blog` but I decided to move to a new platform. I will try to migrate my old posts to here to keep everything in-place.
+> Again because I used to post on `shivammehta.me/blog` but I decided to move to a new platform. I will try to migrate my old posts to here to keep everything in one place.
 {: .prompt-info }
 
 Since the start of my PhD journey around two years ago, I've focused on learning new skills or sharpening the existing ones.
