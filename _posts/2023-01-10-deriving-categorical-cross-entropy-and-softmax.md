@@ -85,7 +85,7 @@ $$
 1 & x_i = x_k \\
 0 & \text{otherwise}
 \end{cases}  = \mathbb{1}(x_i = x_k)  = \delta_{ik} $$
-where $\mathbb{1}(x_i = x_k)$ is the indicator function which in this case can also represented as $\delta_{ik}$ which is the [Kronecker delta function](https://en.wikipedia.org/wiki/Kronecker_delta).
+where $\mathbb{1}(x_i = x_k)$ is the [Indicator function](https://en.wikipedia.org/wiki/Indicator_function) which in this case can also represented as $\delta_{ik}$ which is the [Kronecker delta function](https://en.wikipedia.org/wiki/Kronecker_delta).
 
 And the second element of RHS can be further simplified as
 
