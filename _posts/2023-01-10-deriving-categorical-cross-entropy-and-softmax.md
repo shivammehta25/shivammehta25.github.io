@@ -125,7 +125,7 @@ Eq. 5 is the backward/reverse/jacobian of the softmax function.
 
 ## Differentiating cross-entropy loss
 
-We differentiate cross entropy with respect to the input to the softmax x_k as the local derivative of softmax defined in Eq. 4 will help us to get a trivial solution for cross entropy's local derivative.
+We differentiate cross entropy with respect to an arbitrary input to the softmax $x_k$ as the local derivative of softmax defined in Eq. 4 will help us to get a trivial solution for cross entropy's local derivative.
 
 $$
 \begin{align*}
