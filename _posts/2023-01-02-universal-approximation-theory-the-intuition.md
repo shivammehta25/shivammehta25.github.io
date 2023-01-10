@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Universal approximation theory - The intuition
+title: Universal approximation theorem - The intuition
 date: 2021-06-10 17:02 +0100
 categories: [deep-learning, math]
 tags: [deep-learning, theory, math, calculus, derivatives, backpropagation, neural-networks]
 image:
   path: thumbnail.jpeg
-  alt: Universal approximation theory - The intuition
+  alt: Universal approximation theorem - The intuition
 math: true
 ---
 
