@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The need for sampling temperature and different between whisper, GPT-3 and
-  probabilistic model's temperature
+title: The need for sampling temperature and differences between whisper, GPT-3, and probabilistic model's temperature
 categories:
 - machine-learning
 tags:
@@ -12,7 +11,7 @@ tags:
 - probabilistic-machine-learning
 image:
   path: thumbnail.jpeg
-  alt: Temperature in language models, Open AI whisper, probabilistic machine learning
+  alt: The need for sampling temperature and differences between whisper, GPT-3, and probabilistic model's temperature
 math: true
 date: 2023-01-27 11:31 +0100
 ---
@@ -22,9 +21,10 @@ When I published my new work [OverFlow](https://shivammehta25.github.io/OverFlow
 
 ## What is the need for sampling temperature?
 
-Now, this is a hyperparameter question, but we can think about it why we need to choose the sampling temperature.
 
-1. Let's assume our two-dimensional data sits on a banana manifold! (i.e the actual data in a 2-D space sits on a banana-looking distribution)
+The first thing we will talk about is why we need the temperature parameter.
+
+1. Let's assume our two-dimensional "ground truth" data has a banana-shaped distribution in the data manifold! (i.e the actual data in a 2-D space sits on a banana-looking distribution)
 
 ![banana manifold](banana_manifold_1.jpeg)
 _The data manifold_
@@ -46,7 +46,7 @@ _Sampling with different temperature_
 
 So, when the temperature is low, in purple $\tau=0.2$ we get very similar samples and when the temperature is high, in green $\tau=10$ we get very diverse samples. So, we can say that the sampling temperature is a hyperparameter that controls the randomness of the sampling process. The higher the sampling temperature, the more random the sampling process is. The lower the sampling temperature, the less randomness we put in the sampling process.
 
-Further, we can reason about the sampling temperature in two ways for different type of distribution of the data:
+Further, we can reason about the sampling temperature in two ways for different types of data distributions ( i.e discrete and continuous):
 
 1. The sampling temperature over a discrete set of tokens like in OpenAI's whisper and GPT-3 models.
 2. The sampling temperature over a continuous random variable like in flow-based models or other probabilistic machine learning models. (This is the case in OverFlow)
@@ -104,7 +104,7 @@ where $\tau$ is the sampling temperature.
 We can visualize the effect of the sampling temperature on the sampling process by plotting the probability density function of the gaussian distribution with different sampling temperatures.
 
 ![Different temperatures continuous](different_temperatures_continuous.jpeg)
-_Probability density function of the gaussian distribution with different sampling temperatures_
+_The probability density function of the gaussian distribution with different sampling temperatures_
 
 Notice how the gaussian flattens as we increase the sampling temperature. This can be useful to sample from a gaussian distribution with a higher variance. We can also say that increasing the sampling temperature increases the uncertainty of the model, which can be useful to sample varied samples from the same distribution.
 
