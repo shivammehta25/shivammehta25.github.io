@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/your-own-mini-google-search-inverted-indexes-and-boolean-retrieval/
 layout: post
 title: Your own mini google search - inverted indexes and boolean retrieval
 date: 2020-01-08 16:32 +0100

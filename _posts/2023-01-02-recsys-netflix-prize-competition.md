@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/recsys-netflix-prize-competition/
 layout: post
 title: RecSys Netflix prize competition
 date: 2019-11-06 15:08 +0100

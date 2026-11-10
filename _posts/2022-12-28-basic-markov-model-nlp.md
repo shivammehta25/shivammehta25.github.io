@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/basic-markov-model-nlp/
 layout: post
 title: A basic Markov model for NLP
 date: 2019-03-27 19:44 +0100

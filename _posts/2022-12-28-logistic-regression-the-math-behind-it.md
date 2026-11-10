@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/logistic-regression-the-math-behind-it/
 layout: post
 title: Logistic regression - the math behind it
 date: 2019-04-16 23:49 +0100

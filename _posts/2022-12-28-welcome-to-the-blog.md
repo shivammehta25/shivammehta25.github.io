@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/welcome-to-the-blog/
 layout: post
 title: Welcome to the blog
 date: 2022-12-28 13:54 +0100

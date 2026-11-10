@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/keras-callbacks/
 layout: post
 title: Keras Callbacks
 date: 2019-09-07 16:45 +0100

@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/paper-summary-few-shot-adversarial-learning-of-realistic-neural-talking-head-models/
 layout: post
 title: Paper summary - Few shot adversarial learning of realistic neural talking head models
 date: 2019-11-08 15:23 +0100

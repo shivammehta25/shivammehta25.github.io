@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/train-test-dev-split/
 layout: post
 title: Train, test, dev split and bias v/s variance
 date: 2019-05-03 10:35 +0100

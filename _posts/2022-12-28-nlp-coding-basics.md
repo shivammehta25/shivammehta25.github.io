@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/nlp-coding-basics/
 layout: post
 title: NLP coding basics (before LLMs)
 date: 2019-04-10 23:40 +0100

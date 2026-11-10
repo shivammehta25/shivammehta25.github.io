@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/recurrent-neural-networks-rnns/
 layout: post
 title: Recurrent neural networks (RNNs)
 date: 2019-10-03 14:25 +0100

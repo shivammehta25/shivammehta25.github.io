@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/deriving-categorical-cross-entropy-and-softmax/
 layout: post
 title: Deriving categorical cross entropy and softmax
 categories:

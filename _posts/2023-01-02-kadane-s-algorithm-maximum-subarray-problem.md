@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/kadane-s-algorithm-maximum-subarray-problem/
 layout: post
 title: Kadane's algorithm - Maximum subarray problem
 date: 2019-12-09 16:19 +0100

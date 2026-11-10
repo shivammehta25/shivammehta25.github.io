@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/a-beginners-guide-to-regularization/
 layout: post
 title: A beginners guide to regularization
 date: 2019-05-08 10:49 +0100

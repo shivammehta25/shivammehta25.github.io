@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/generative-models-part-i-vae/
 layout: post
 title: Generative Models - Part I VAE
 date: 2019-10-12 14:42 +0100

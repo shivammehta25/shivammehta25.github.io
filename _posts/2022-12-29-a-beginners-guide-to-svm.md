@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/a-beginners-guide-to-svm/
 layout: post
 title: A beginners guide to SVM
 date: 2019-05-19 15:10 +0100

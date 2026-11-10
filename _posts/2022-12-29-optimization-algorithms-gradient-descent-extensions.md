@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/optimization-algorithms-gradient-descent-extensions/
 layout: post
 title: Optimization Algorithms – Gradient Descent Extensions
 date: 2019-06-20 15:51 +0100

@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/paper-summary-distractor-generation-for-multiple-choice-question-using-learning-to-rank/
 layout: post
 title: Paper summary - Distractor generation for multiple choice question using learning
   to rank

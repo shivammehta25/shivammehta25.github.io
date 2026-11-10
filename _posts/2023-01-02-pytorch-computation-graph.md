@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/pytorch-computation-graph/
 layout: post
 title: PyTorch - Computation graph
 date: 2020-12-06 16:55 +0100
@@ -116,4 +117,4 @@ Let's talk more about PyTorch and coding with it in further chapters of this PyT
 Some nice reading materials/references to read more about it:
 
 - [https://www.youtube.com/watch?v=MswxJw-8PvE](https://www.youtube.com/watch?v=MswxJw-8PvE)
-- [http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf](http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf)
+- [https://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf](https://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/04-nn-compgraph.pdf)

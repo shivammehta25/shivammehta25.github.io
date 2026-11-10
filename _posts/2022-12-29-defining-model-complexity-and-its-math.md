@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/defining-model-complexity-and-its-math/
 layout: post
 title: Defining model complexity and its math
 date: 2019-06-28 16:21 +0100

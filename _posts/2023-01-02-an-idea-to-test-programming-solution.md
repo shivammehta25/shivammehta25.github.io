@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/an-idea-to-test-programming-solution/
 layout: post
 title: An idea to test programming solution
 date: 2020-01-31 16:41 +0100

@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/machine-learning-theory/
 layout: post
 title: Machine Learning Theory
 date: 2019-03-30 23:22 +0100

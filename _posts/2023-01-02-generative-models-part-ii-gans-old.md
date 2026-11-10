@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/generative-models-part-ii-gans-old/
 layout: post
 title: Generative Models - Part II GANs (old)
 date: 2019-10-21 15:00 +0100

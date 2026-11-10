@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/keras-lstm-donald-trump/
 layout: post
 title: Keras LSTM-donald trump
 date: 2019-05-19 15:44 +0100

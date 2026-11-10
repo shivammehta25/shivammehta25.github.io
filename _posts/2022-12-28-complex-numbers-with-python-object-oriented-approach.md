@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/complex-numbers-with-python-object-oriented-approach/
 layout: post
 title: Complex numbers in python an OOP way
 date: 2019-03-26 13:54 +0100

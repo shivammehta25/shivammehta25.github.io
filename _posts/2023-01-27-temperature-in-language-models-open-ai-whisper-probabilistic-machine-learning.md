@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/temperature-in-language-models-open-ai-whisper-probabilistic-machine-learning/
 layout: post
 title: The need for sampling temperature and differences between whisper, GPT-3, and probabilistic model's temperature
 categories:

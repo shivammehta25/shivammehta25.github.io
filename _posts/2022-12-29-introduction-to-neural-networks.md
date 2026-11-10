@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/introduction-to-neural-networks/
 layout: post
 title: Introduction to neural networks
 date: 2019-04-20 09:21 +0100

@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/introduction-to-gradient-descent/
 layout: post
 title: Introduction to gradience descent (a beginner's guide)
 date: 2019-04-22 10:07 +0100

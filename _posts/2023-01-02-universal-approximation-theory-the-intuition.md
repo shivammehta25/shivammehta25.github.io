@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/universal-approximation-theory-the-intuition/
 layout: post
 title: Universal approximation theorem - The intuition
 date: 2021-06-10 17:02 +0100

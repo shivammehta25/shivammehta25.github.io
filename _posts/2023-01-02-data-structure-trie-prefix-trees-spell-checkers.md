@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/data-structure-trie-prefix-trees-spell-checkers/
 layout: post
 title: Data structure Trie - Prefix trees, spell checkers
 date: 2020-02-13 16:49 +0100

@@ -1,4 +1,5 @@
 ---
+media_subpath: /posts/topic-modelling-before-llms/
 layout: post
 title: Topic modelling (before LLMs)
 date: 2019-04-18 09:08 +0100
@@ -86,4 +87,5 @@ The Algorithm looks like this:
 
 ![pLSA Algorithm](pLSA-Algorithm.png)
 
-[http://www.machinelearning.ru/wiki/images/1/1f/Voron14aist.pdf](http://www.machinelearning.ru/wiki/images/1/1f/Voron14aist.pdf)
+[http://www.machinelearning.ru/wiki/images/1/1f/Voron14aist.pdf](http://www.machinelearning.ru/wiki/images/1/1f/Voron14aist.pdf){: data-proofer-ignore="true" }
+<!-- Historical reference: HTTPS certificate validation fails at this host; retain the original URL. -->
